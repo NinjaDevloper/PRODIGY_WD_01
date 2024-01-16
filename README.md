@@ -17,6 +17,7 @@ This project features an interactive navigation menu with dynamic styles that ch
 ├── index.html
 ├── styles.css
 └── script.js
+```
 
 
 
