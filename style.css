@@ -1,0 +1,27 @@
+nav {
+    background-color: rgb(14, 9, 56) !important;
+}
+
+.nav-link:hover {
+    color: rgb(204, 185, 14) !important;
+}
+
+.alison {
+    background-image: linear-gradient(to left, rgba(153, 205, 50, 0.772), rgba(99, 227, 99, 0.777));
+
+}
+
+
+.b1 {
+    background-color: blue;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#b1:hover {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    padding: 8px;
+}
