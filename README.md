@@ -23,10 +23,17 @@ This project features an interactive navigation menu with dynamic styles that ch
 ## Video
 
 
-https://github.com/NinjaDevloper/PRODIGY_WD_01/assets/155881587/76e78769-6b03-4c97-9f0a-f5804f0792f1
+
+
+https://github.com/NinjaDevloper/PRODIGY_WD_01/assets/155881587/96851b72-a346-417e-a430-e6bf9fbf40c9
+
+
 
 ### OutPut
 
 
-https://github.com/NinjaDevloper/PRODIGY_WD_01/assets/155881587/0fcc3121-1970-4ea2-b2d4-10de5a2ce176
+
+https://github.com/NinjaDevloper/PRODIGY_WD_01/assets/155881587/d0a359b9-4ac6-495b-8aa0-493a3c386c6b
+
+
 
